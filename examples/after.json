@@ -1,0 +1,1 @@
+{"config":{"retries":3,"timeout":"60s"},"meta":{"built_at":"2026-10-05T03:00:00Z","version":"1.3.0"},"users":[{"age":31,"email":"ming@example.com","id":7,"name":"小明"},{"age":28,"email":"qiang@example.com","id":10,"name":"阿强"}]}
